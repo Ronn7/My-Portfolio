@@ -1,0 +1,64 @@
+body{
+    background: linear-gradient( #999790 , #1dd914 , #147ad9 , #eb34e8 , #e0a709 );
+        margin: 0 ;
+    padding-top: 70px ;
+    font-family: fantasy ;
+    font-style: oblique ;
+    text-align: center ;
+}
+
+img{
+    height: 270 ;
+    width: 700 ;
+}
+
+}
+#profile{
+    border-radius: 500% ;
+    margin-bottom: 500px ;
+}
+
+.menu{
+    list-style: none;
+    font-family: monospace  ;
+    position: fixed;
+    margin-top: 27px;
+    z-index: 17px ;
+    cursor: pointer;
+}
+
+#bio{
+    font-size: 17px;
+    color: darkorange;
+    background-color: limegreen ;
+        
+}
+
+.links{
+    color: lime ;
+    float: left;
+    padding-top: 7px ;
+    padding-bottom: 7px ;
+    padding-left: 7px ;
+    padding-right: 7px ;
+    font-family: fantasy ;
+    font-style: oblique ;
+    font-size: 17px
+}
+
+.links:hover{
+    background-color: coral
+}
+
+#lol{
+   font-size: 23px;
+    color: darkorange ;
+    background-color: greenyellow;
+}
+
+.Wiki{
+    
+}
+
+
+
